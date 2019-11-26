@@ -2,6 +2,7 @@ package io.turntabl.scalagettingstarted
 
 import io.turntabl.students.TLCStudent
 
+
 object MyApp extends App {
  val st = new TLCStudent("Martha", "Mandas", 2001)
  val st2 = new TLCStudent("Mary", "Afram", 2001)
@@ -17,10 +18,8 @@ object MyApp extends App {
 
  val obj = TLCStudent("Johnny", "Repl", 2013)
  println(obj)
- val grade = new GradeCase("Economics", 14.2)
- print(grade)
-
-// val mine = st.topGrade()
-// println(mine)
+ val grade =  GradeCase("Economics", 14.2)
+  println(grade)
+// st getWorkLoad
 }
 
