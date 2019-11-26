@@ -1,32 +1,81 @@
 products:
    src/main/scala/io/turntabl/scalagettingstarted/GradeCase.scala -> build/classes/scala/main/io/turntabl/scalagettingstarted/GradeCase$.class
    src/main/scala/io/turntabl/scalagettingstarted/GradeCase.scala -> build/classes/scala/main/io/turntabl/scalagettingstarted/GradeCase.class
+   src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> build/classes/scala/main/io/turntabl/scalagettingstarted/MyApp$$anonfun$1.class
+   src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> build/classes/scala/main/io/turntabl/scalagettingstarted/MyApp$$anonfun$2.class
+   src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> build/classes/scala/main/io/turntabl/scalagettingstarted/MyApp$$anonfun$3.class
    src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> build/classes/scala/main/io/turntabl/scalagettingstarted/MyApp$.class
    src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> build/classes/scala/main/io/turntabl/scalagettingstarted/MyApp$delayedInit$body.class
    src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> build/classes/scala/main/io/turntabl/scalagettingstarted/MyApp.class
+   src/main/scala/io/turntabl/students/Collections.scala -> build/classes/scala/main/io/turntabl/students/Collections$$anonfun$iterating$1.class
+   src/main/scala/io/turntabl/students/Collections.scala -> build/classes/scala/main/io/turntabl/students/Collections$.class
+   src/main/scala/io/turntabl/students/Collections.scala -> build/classes/scala/main/io/turntabl/students/Collections.class
+   src/main/scala/io/turntabl/students/Functions.scala -> build/classes/scala/main/io/turntabl/students/Functions$$anonfun$1.class
+   src/main/scala/io/turntabl/students/Functions.scala -> build/classes/scala/main/io/turntabl/students/Functions$$anonfun$2.class
+   src/main/scala/io/turntabl/students/Functions.scala -> build/classes/scala/main/io/turntabl/students/Functions$$anonfun$3.class
+   src/main/scala/io/turntabl/students/Functions.scala -> build/classes/scala/main/io/turntabl/students/Functions$$anonfun$4.class
+   src/main/scala/io/turntabl/students/Functions.scala -> build/classes/scala/main/io/turntabl/students/Functions$$anonfun$5$$anonfun$apply$1.class
+   src/main/scala/io/turntabl/students/Functions.scala -> build/classes/scala/main/io/turntabl/students/Functions$$anonfun$5.class
+   src/main/scala/io/turntabl/students/Functions.scala -> build/classes/scala/main/io/turntabl/students/Functions$$anonfun$6.class
+   src/main/scala/io/turntabl/students/Functions.scala -> build/classes/scala/main/io/turntabl/students/Functions$$anonfun$7.class
+   src/main/scala/io/turntabl/students/Functions.scala -> build/classes/scala/main/io/turntabl/students/Functions$.class
+   src/main/scala/io/turntabl/students/Functions.scala -> build/classes/scala/main/io/turntabl/students/Functions.class
    src/main/scala/io/turntabl/students/TLCStudent.scala -> build/classes/scala/main/io/turntabl/students/TLCStudent$$anon$1.class
    src/main/scala/io/turntabl/students/TLCStudent.scala -> build/classes/scala/main/io/turntabl/students/TLCStudent$.class
    src/main/scala/io/turntabl/students/TLCStudent.scala -> build/classes/scala/main/io/turntabl/students/TLCStudent.class
+   src/main/scala/io/turntabl/students/TurntablEmployee.scala -> build/classes/scala/main/io/turntabl/students/TurntablEmployee.class
+   src/main/scala/io/turntabl/students/TurntablManager.scala -> build/classes/scala/main/io/turntabl/students/TurntablManager.class
 binary dependencies:
    src/main/scala/io/turntabl/scalagettingstarted/GradeCase.scala -> /home/patricia-agyekum/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.12/bf5534e6fec3d665bd6419c952a929a8bdd4b591/scala-library-2.11.12.jar
    src/main/scala/io/turntabl/scalagettingstarted/GradeCase.scala -> /snap/intellij-idea-community/185/jbr
    src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> /home/patricia-agyekum/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.12/bf5534e6fec3d665bd6419c952a929a8bdd4b591/scala-library-2.11.12.jar
    src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> build/classes/scala/main/io/turntabl/scalagettingstarted/TLCStudent$.class
    src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> build/classes/scala/main/io/turntabl/scalagettingstarted/TLCStudent.class
+   src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> build/classes/scala/main/io/turntabl/students/Collections.class
+   src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> build/classes/scala/main/io/turntabl/students/Functions.class
    src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> /snap/intellij-idea-community/185/jbr
+   src/main/scala/io/turntabl/students/Collections.scala -> /home/patricia-agyekum/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.12/bf5534e6fec3d665bd6419c952a929a8bdd4b591/scala-library-2.11.12.jar
+   src/main/scala/io/turntabl/students/Collections.scala -> /snap/intellij-idea-community/185/jbr
+   src/main/scala/io/turntabl/students/Functions.scala -> /home/patricia-agyekum/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.12/bf5534e6fec3d665bd6419c952a929a8bdd4b591/scala-library-2.11.12.jar
+   src/main/scala/io/turntabl/students/Functions.scala -> /snap/intellij-idea-community/185/jbr
    src/main/scala/io/turntabl/students/TLCStudent.scala -> /home/patricia-agyekum/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.12/bf5534e6fec3d665bd6419c952a929a8bdd4b591/scala-library-2.11.12.jar
    src/main/scala/io/turntabl/students/TLCStudent.scala -> /snap/intellij-idea-community/185/jbr
+   src/main/scala/io/turntabl/students/TurntablEmployee.scala -> /home/patricia-agyekum/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.12/bf5534e6fec3d665bd6419c952a929a8bdd4b591/scala-library-2.11.12.jar
+   src/main/scala/io/turntabl/students/TurntablEmployee.scala -> /snap/intellij-idea-community/185/jbr
+   src/main/scala/io/turntabl/students/TurntablManager.scala -> /snap/intellij-idea-community/185/jbr
 source dependencies:
    src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> src/main/scala/io/turntabl/scalagettingstarted/GradeCase.scala
+   src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> src/main/scala/io/turntabl/students/Collections.scala
+   src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> src/main/scala/io/turntabl/students/Functions.scala
    src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> src/main/scala/io/turntabl/students/TLCStudent.scala
    src/main/scala/io/turntabl/students/TLCStudent.scala -> src/main/scala/io/turntabl/scalagettingstarted/GradeCase.scala
+   src/main/scala/io/turntabl/students/TLCStudent.scala -> src/main/scala/io/turntabl/students/TurntablEmployee.scala
+   src/main/scala/io/turntabl/students/TurntablManager.scala -> src/main/scala/io/turntabl/students/TurntablEmployee.scala
 external dependencies:
 class names:
    src/main/scala/io/turntabl/scalagettingstarted/GradeCase.scala -> io.turntabl.scalagettingstarted.GradeCase
    src/main/scala/io/turntabl/scalagettingstarted/GradeCase.scala -> io.turntabl.scalagettingstarted.GradeCase$
    src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> io.turntabl.scalagettingstarted.MyApp
    src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> io.turntabl.scalagettingstarted.MyApp$
+   src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> io.turntabl.scalagettingstarted.MyApp$$anonfun$1
+   src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> io.turntabl.scalagettingstarted.MyApp$$anonfun$2
+   src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> io.turntabl.scalagettingstarted.MyApp$$anonfun$3
    src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> io.turntabl.scalagettingstarted.MyApp$delayedInit$body
+   src/main/scala/io/turntabl/students/Collections.scala -> io.turntabl.students.Collections
+   src/main/scala/io/turntabl/students/Collections.scala -> io.turntabl.students.Collections$
+   src/main/scala/io/turntabl/students/Collections.scala -> io.turntabl.students.Collections$$anonfun$iterating$1
+   src/main/scala/io/turntabl/students/Functions.scala -> io.turntabl.students.Functions
+   src/main/scala/io/turntabl/students/Functions.scala -> io.turntabl.students.Functions$
+   src/main/scala/io/turntabl/students/Functions.scala -> io.turntabl.students.Functions$$anonfun$1
+   src/main/scala/io/turntabl/students/Functions.scala -> io.turntabl.students.Functions$$anonfun$2
+   src/main/scala/io/turntabl/students/Functions.scala -> io.turntabl.students.Functions$$anonfun$3
+   src/main/scala/io/turntabl/students/Functions.scala -> io.turntabl.students.Functions$$anonfun$4
+   src/main/scala/io/turntabl/students/Functions.scala -> io.turntabl.students.Functions$$anonfun$5
+   src/main/scala/io/turntabl/students/Functions.scala -> io.turntabl.students.Functions$$anonfun$5$$anonfun$apply$1
+   src/main/scala/io/turntabl/students/Functions.scala -> io.turntabl.students.Functions$$anonfun$6
+   src/main/scala/io/turntabl/students/Functions.scala -> io.turntabl.students.Functions$$anonfun$7
    src/main/scala/io/turntabl/students/TLCStudent.scala -> io.turntabl.students.TLCStudent
    src/main/scala/io/turntabl/students/TLCStudent.scala -> io.turntabl.students.TLCStudent$
    src/main/scala/io/turntabl/students/TLCStudent.scala -> io.turntabl.students.TLCStudent$$anon$1
+   src/main/scala/io/turntabl/students/TurntablEmployee.scala -> io.turntabl.students.TurntablEmployee
+   src/main/scala/io/turntabl/students/TurntablManager.scala -> io.turntabl.students.TurntablManager

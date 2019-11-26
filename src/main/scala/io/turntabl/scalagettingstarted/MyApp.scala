@@ -1,6 +1,8 @@
 package io.turntabl.scalagettingstarted
-
-import io.turntabl.students.TLCStudent
+import io.turntabl.students.Collections._
+import io.turntabl.students.Functions._
+import io.turntabl.students.{Collections, Functions, TLCStudent}
+import sun.security.util.Length
 
 
 object MyApp extends App {
@@ -21,5 +23,21 @@ object MyApp extends App {
  val grade =  GradeCase("Economics", 14.2)
   println(grade)
 // st getWorkLoad
+
+
+//val len = (stword: String, Length: (String => Int)) => Length ()
+ println(lengthfunc("mallam"))
+ println(spacescount("mallam is sad"))
+ println(ApplyToString("tabia fallaaa lllaasas", lengthfunc))
+ val r  = calculate("add")
+ println(r)
+
+ println(countries.keys)
+ println(addedcountry)
+ println(addedcountry.getOrElse("Norway", "Unknown"))
+ println(addedcountry.getOrElse("Togo", "Unknown"))
+ println(friends count(_ eq "Samuel"))
+ iterating()
+ println(me)
 }
 
