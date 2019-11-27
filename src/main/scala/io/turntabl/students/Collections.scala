@@ -14,6 +14,6 @@ val friends = Set("princess", "Mary", "Francis", "Samuel", "Anna", "Samuel")
   val listofnames = Seq("Doreen", "Yaa", "Patricia", "Sheva")
   def iterating()= listofnames foreach println
   def morethan6()= (sixv: String) => String
-    listofnames filter()
+    val sixv = listofnames filter(_ )
 
 }

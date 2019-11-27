@@ -1,7 +1,7 @@
 package io.turntabl.scalagettingstarted
 import io.turntabl.students.Collections._
 import io.turntabl.students.Functions._
-import io.turntabl.students.{Collections, Functions, TLCStudent}
+import io.turntabl.students.{Book, Collections, Functions, TLCStudent}
 import sun.security.util.Length
 
 
@@ -39,5 +39,9 @@ object MyApp extends App {
  println(friends count(_ eq "Samuel"))
  iterating()
  println(me)
+
+
+
+
 }
 
