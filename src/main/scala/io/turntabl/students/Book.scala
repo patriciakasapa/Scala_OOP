@@ -7,7 +7,7 @@ case class Book(authorSurname: String, title: String, publisherYear: Int, catego
 
 object Book{
 
-  val collect = Seq(
+  val collect = List(
     Book("Phillips", "Shades", 1882, "Romance"),
     Book("Andreas", "Chilly", 1224, "Horror"),
     Book("Aidoo", "Nkrumah", 2008, "History")
@@ -19,7 +19,7 @@ object Book{
     }
   collect foreach search
 
-  val booksByTitle = for(Book <- collect: collect.Book.map(.)
-
+  def booksByTitle (books: List[Book]) = books.map(onebook => onebook.title -> onebook) toMap
+val listifbooktitles = List("Shades", "Game of thrones", "Nkrumah")
   }
 

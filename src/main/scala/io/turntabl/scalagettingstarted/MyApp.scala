@@ -1,4 +1,5 @@
 package io.turntabl.scalagettingstarted
+import io.turntabl.students.Book._
 import io.turntabl.students.Collections._
 import io.turntabl.students.Functions._
 import io.turntabl.students.{Book, Collections, Functions, TLCStudent}
@@ -40,8 +41,14 @@ object MyApp extends App {
  iterating()
  println(me)
 
+val printlist = booksByTitle(collect)
+ println(printlist)
 
 
+ val toflattenthemap = listifbooktitles flatMap printlist.get
+ println(toflattenthemap)
 
+ val forcomprehension = for (anytitle <- listifbooktitles
+                             if (anytitle == printlist.)
 }
 

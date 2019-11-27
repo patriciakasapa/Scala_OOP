@@ -13,7 +13,7 @@ val addedcountry = countries + ("Togo"-> "Lome", "Wakanda" -> "Wajisu")
 val friends = Set("princess", "Mary", "Francis", "Samuel", "Anna", "Samuel")
   val listofnames = Seq("Doreen", "Yaa", "Patricia", "Sheva")
   def iterating()= listofnames foreach println
-  def morethan6()= (sixv: String) => String
-    val sixv = listofnames filter(_ )
+//  def morethan6()= (sixv: String) => String
+//    val sixv = listofnames filter(_ )
 
 }

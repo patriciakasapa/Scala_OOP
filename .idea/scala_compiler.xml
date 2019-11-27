@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ScalaCompilerConfiguration">
     <profile name="Gradle 1" modules="scala-getting-started.main,scala-getting-started.test">
+      <option name="postfixOps" value="true" />
       <option name="deprecationWarnings" value="true" />
       <option name="uncheckedWarnings" value="true" />
       <parameters>
